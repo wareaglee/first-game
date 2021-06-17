@@ -1,4 +1,6 @@
-username = input('Enter a username : ') # this was great
+#this is a game where you have to try to defeat Zorlock the wizard 
+
+username = input('Enter a username : ') 
 print(f"Welcome {username.lower()}! ")
 player_health = 100
 enemy_health = 100
