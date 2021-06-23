@@ -52,3 +52,6 @@ while enemy_health > 0 :
         continue
 if enemy_health <= 0: 
     print(f"Good job {username} you have defeated {enemy_name}!!")
+
+if player_health <=0:
+    print("Unlucky you have gotten defeated by Zorlock... Better luck next time.")
